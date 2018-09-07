@@ -26,3 +26,5 @@ Explore Attributes and Class|	10|	Identify and explain interesting relationships
 New Features	|5|	Are there other features that could be added to the data or created from existing features? Which ones?
 Exceptional Work|	10|	You have free reign to provide additional analyses. One idea: implement dimensionality reduction, then visualize and interpret the results.
 Total	|100|
+
+
